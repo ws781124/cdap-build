@@ -30,7 +30,7 @@ on:
 
 env:
   TAG_NAME: latest
-
+  CDAP_VERSION: v6.9.2-SNAPSHOT
 jobs:
 
   set-branch-matrix:
